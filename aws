@@ -1,14 +1,9 @@
 COMMANDS:
-GIT REVERT: is a command that allows you to undo or reverse the changes made in a
-previous commit. It creates a new commit that undoes the changes introduced by the
-specified commit, effectively taking your code back to a previous state without deleting
-commit history
-GIT BRANCHES:
-git reset --hard HEAD~1 used to delete the latest commit along
+git is used to track the files
+GIT REVERT: is a command that allows you to undo or reverse the changes made in 
 with the changes
-git reset --hard HEAD~3 used to delete the latest 3 commits along
-with the changes
+my name is jay
+i am a devops engineer
 git reset --soft HEAD~1 used to delete only commits but not
 actions/changes
 git reset --soft HEAD~3 used to delete only latest commits but not
-actions/changes
